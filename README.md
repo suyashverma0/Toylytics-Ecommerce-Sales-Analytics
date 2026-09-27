@@ -1,0 +1,1 @@
+in this project we do analysis using SQL,Python and Excel
